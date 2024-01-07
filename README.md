@@ -6,16 +6,16 @@ This is a python implementation of motor imagery (MI)-based brain computer inter
 
 The implementation is compact, modularized and easy-to-customized.
 
-<center class="half">
-<img src="calibration snapshot.jpg" width=300/>
-<img src="feedback snapshot.jpg" width=300/>
-</center>
+<div align=center>
+  <img src="calibration snapshot.jpg" alt="Calibration snapshot" width="300"/>
+  <img src="feedback snapshot.jpg" alt="Feedback snapshot" width="300"/>
+</div>
 
-​															 **Calibration snapshot								 Feedback snapshot**
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Calibration snapshot &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Feedback snapshot**
 
 ## Dependencies
 
-The system is mainly developed with the PyQt5 (5.15.6) framework along with mainstream data science and EEG-processing packages including numpy (1.22.3), scipy (1.8.0), pytorch (1.13.0), pylsl (1.16.0), mne (1.2.2), pyqtgraph (0.13.0), etc. A python interpreter version of 3.8 is recommended.
+The system is mainly developed with the PyQt5 (5.15.6) framework along with mainstream data science and EEG-processing packages including numpy (1.22.3), scipy (1.8.0), pytorch (1.13.0), pylsl (1.16.0), mne (1.2.2), pyqtgraph (0.13.0), etc. A python interpreter version of 3.8 is recommended. 
 
 ## Usage
 
