@@ -11,7 +11,7 @@ The implementation is compact, modularized and easy-to-customized.
   <img src="feedback snapshot.jpg" alt="Feedback snapshot" width="300"/>
 </div>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Calibration snapshot &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Feedback snapshot**
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Calibration snapshot &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Feedback snapshot**
 
 ## Dependencies
 
