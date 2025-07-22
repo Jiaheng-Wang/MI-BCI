@@ -47,9 +47,8 @@ Now, we are ready to conduct online cursor control through MI-BCI operation.
 - [ ] Run the file ***./MIFeedback/modules/client.py*** to perform real-time MI-BCI control!
 
 ## Cite:
+J. Wang, L. Yao and Y. Wang, "Enhanced Online Continuous Brain-Control by Deep Learning-based EEG Decoding," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, doi: 10.1109/TNSRE.2025.3591254.
 
 We are appreciated if you find this work to be beneficial for you.
 
 Welcome to contact with us by Jiaheng-Wang@zju.edu.cn.
-
-This work is currently under review.
